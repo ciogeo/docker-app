@@ -1,0 +1,1 @@
+Simple docker compose file using images for PHP 7.2 with Apache, Mysql and Redis
